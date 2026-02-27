@@ -23,9 +23,9 @@ This lesson is about my `nested_loops_for.cpp` practice in C++.
 - At first, when I printed sizes, each one appeared on a new line.
 - Then I changed it so all sizes print in the same line.
 - I made the last comma disappear after the last size.
-- I added a separator line `=====================` after each product for clarity.
+- I added a separator line `=====================` after each product for clarity‌ .
 
 ### What I learned:
 - How to use nested loops with arrays.
 - How to control output formatting.
-- How to combine multiple arrays in loops for better presentation.
+- How to combine multiple arrays in loops for better presentation. 
